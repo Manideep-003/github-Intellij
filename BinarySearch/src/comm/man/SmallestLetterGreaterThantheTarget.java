@@ -27,7 +27,7 @@ public class SmallestLetterGreaterThantheTarget {
                     end = mid - 1;
                 } else {
                     start= mid + 1;
-                }
+                  }
             }
         }
 
