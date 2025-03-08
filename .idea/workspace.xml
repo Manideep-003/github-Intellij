@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3079d69-4d92-461f-9496-fb94faf6f463" name="Changes" comment="init again">
+      <change afterPath="$PROJECT_DIR$/.idea/Java Files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Arraylist/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Arraylist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Arraylist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Arraylist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Arraylist/Arrays_Arraylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Arraylist/src/com/mani/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Arraylist/src/com/mani/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/BSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/Findfirstandlastelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/NoofTimesArrayIsRoated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/PeakIndexInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/RotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/SearchinasortedmatrixTwoD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/SmallestLetterGreaterThantheTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/TwoDMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/celing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/orderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/src/comm/man/peakmountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binarysearch/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/src/GUICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/src/copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/Bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/Cyclesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/Selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/insertionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/missingnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/man/syclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/com/man/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/com/man/PrettyPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/com/man/formatspecifersinjava.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/LinearSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/com/mann/EvenDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/com/mann/FindMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/com/mann/FindNoOfDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/com/mann/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/com/mann/Richest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/com/mann/Search_in_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/com/mann/SearchinRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/linearsearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/FindNoOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/Richest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/Search_in_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/SearchinRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearsearch/src/com/mann/x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Arguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Arguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Function_overloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Function_overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Passing_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/Swap_two_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/com/m/varArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/myfirst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/Occurance_of_a_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/inputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst/src/com/x/rev_num.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Manideep-003&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Manideep-003/github-Intellij.git&quot;,
+    &quot;accountId&quot;: &quot;077cae30-7421-404c-b004-877178801727&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2skU7IULi8CAmX6TPiNfGN1pd11" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java Files&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Java Files/Sorting/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\intellij" />
+      <recent name="E:\javafiles\Binarysearch" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearch" />
+      <module name="linearsearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinearSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3079d69-4d92-461f-9496-fb94faf6f463" name="Changes" comment="init again" />
+      <created>1738998897311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738998897311</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1738999716571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738999716571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init again">
+      <option name="closed" value="true" />
+      <created>1739036697597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739036697597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="423ff583-10bf-4d2e-b785-f2d4d4d6e236" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="423ff583-10bf-4d2e-b785-f2d4d4d6e236">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="first changes" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="init committ" />
+    <MESSAGE value="New changelist" />
+    <MESSAGE value="init again" />
+    <option name="LAST_COMMIT_MESSAGE" value="init again" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting/src/com/man/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
