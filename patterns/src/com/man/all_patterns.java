@@ -13,9 +13,11 @@ public static void main(String[] args) {
 //    patter28(5);
 //    patter8(5);
 //patter9(5);
-pattern11(5);
-
-
+//pattern11(5);
+//pattern2(5);
+//pattern14(5);
+//    pattern13(5);
+    pattern20(5);
 }
 
 static void pattern1(int n){
@@ -139,8 +141,72 @@ static void pattern1(int n){
         }
     }
 
+//    static void patter12(int n){
+//        for(int i=0;i<2*n;i++){
+//           int col=(i<n)?2*n-i:i;
+//           int spaces
+//            for(int j=1;j<spaces;j++){
+//                System.out.print(" ");
+//            }
+//            for(int j=1;j<=col;j++){
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
+//    }
+static void pattern13(int n){
+    for (int i = 1; i <= n; i++) {
+        int spaces = n - i;
+        for (int j = 1; j <= spaces; j++) {
+            System.out.print(" ");
+        }
+        for (int k = 1; k <= i; k++) {
+            // Print '*' only for the boundaries or the last row
+            if (k == 1 || k == i || i == n) {
+                System.out.print("* ");
+            } else {
+                System.out.print("  "); // Print spaces for the hollow part
+            }
+        }
+        System.out.println();
+    }
+}
+    static void pattern14(int n){
+        for (int i = 0; i < n; i++) {
+            int spaces = i;
+            for (int j = 1; j <=spaces; j++) {
+                System.out.print(" ");
+            }
+            for (int k = 1; k <= n-i; k++) {
+                // Print '*' only for the boundaries or the last row
 
+                    if(i==0 || k==1 || k==n-i){
+                        System.out.print("* ");
+                    }
+                    else {
+                        System.out.print("  ");
+                    }
 
+            }
+            System.out.println();
+        }
+    }
+
+static void pattern20(int n){
+    for (int i = 1; i <=n; i++) {
+        for (int j = 1; j <=n; j++) {
+            if(i==1|| j==1|| i == n ||j==n){
+                System.out.print("* ");
+            }
+            else{
+                System.out.print("  ");
+            }
+
+        }
+        System.out.println();
+
+    }
+}
 
     static void patter28(int n){
         for(int i=1;i<=2*n;i++){
