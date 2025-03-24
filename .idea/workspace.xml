@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3079d69-4d92-461f-9496-fb94faf6f463" name="Changes" comment="init again&#10;&#10;Signed-off-by: ManideepBotsa &lt;manideepbotsa@gmail.com&gt;" />
+    <list default="true" id="f3079d69-4d92-461f-9496-fb94faf6f463" name="Changes" comment="init again&#10;&#10;Signed-off-by: ManideepBotsa &lt;manideepbotsa@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/Strings/src/com/man/oprrators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/com/man/PrettyPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/com/man/PrettyPrinting.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
