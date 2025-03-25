@@ -17,8 +17,13 @@ public static void main(String[] args) {
 //pattern2(5);
 //pattern14(5);
 //    pattern13(5);
-    pattern20(5);
+//    pattern20(5);
+  paattern_try(5);
+//pattern15(5);
+//pattern17(5);
+//pattern19(5);
 }
+
 
 static void pattern1(int n){
     for(int i=0;i<n;i++){
@@ -191,8 +196,47 @@ static void pattern13(int n){
             System.out.println();
         }
     }
+    static void pattern15(int n){
+        for (int i = 1; i <2*n; i++) {
+            int spaces = (i>n)?i-n:n-i;
 
-static void pattern20(int n){
+            for (int j = 1; j <=spaces; j++) {
+                System.out.print(" ");
+            }
+            for (int k = 1; k <=2*i-1; k++) {
+                // Print '*' only for the boundaries or the last row
+                int target=(i>n)? 2*n-i:i;
+                if(k==1 || k==target){
+                    System.out.print("* ");
+                }
+                else {
+                    System.out.print("  ");
+                }
+
+            }
+            System.out.println();
+        }
+    }
+    static void pattern17(int n){
+        for (int i = 1; i <2*n; i++) {
+            int spaces = (i>n)?i-n:n-i;
+
+            for (int j = 1; j <=spaces; j++) {
+                System.out.print(" ");
+            }
+            int start=(i>n)?2*n-i:i;
+            for (int k = start-1; k >1; k--) {
+                System.out.print(k);
+            }
+            for (int l=1;l<start;l++){
+                System.out.print(l);
+            }
+            System.out.println();
+        }
+    }
+
+
+    static void pattern20(int n){
     for (int i = 1; i <=n; i++) {
         for (int j = 1; j <=n; j++) {
             if(i==1|| j==1|| i == n ||j==n){
@@ -207,6 +251,47 @@ static void pattern20(int n){
 
     }
 }
+static void paattern_try(int n){
+    for (int i = 1; i <2*n; i++) {
+        int spaces = (i>n)?i-n:n-i;
+
+        for (int j = 1; j <=spaces; j++) {
+            System.out.print(" ");
+        }
+        int end=(i>n)?2*n-i:i;
+        for (int k = 1; k <=end; k++) {
+            // Print '*' only for the boundaries or the last row
+            System.out.print("* ");
+
+        }
+        System.out.println();
+    }
+}
+    static void pattern19(int n) {
+        int p = 1;
+        int q = 2 * n-1; // Setting initial values outside the loop
+
+        for (int i = 1; i < 2 * n; i++) {
+            for (int j = 1; j < 2 * n; j++) {
+                if (j >p && j <q) {
+                    System.out.print("  "); // Double space to align with "* "
+                } else {
+                    System.out.print("* ");
+                }
+            }
+
+            // Update `p` and `q` based on the current row
+            if (i < n) {
+                p += 1;
+                q -= 1;
+            } else {
+                p -= 1;
+                q += 1;
+            }
+
+            System.out.println(); // Move to the next line
+        }
+    }
 
     static void patter28(int n){
         for(int i=1;i<=2*n;i++){
