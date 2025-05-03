@@ -4,9 +4,11 @@ import java.util.ArrayList;
 
 public class dice_sum_permutation {
     public static void main(String[] args) {
-        subseqqPermutation("",4);
-        ArrayList<String> ans= subseqqPermutationArraylist("",4);
-        System.out.println();
+//        subseqqPermutation("",4);
+//        ArrayList<String> ans= subseqqPermutationArraylist("",4);
+//        System.out.println();
+//        System.out.println(ans);
+        ArrayList<String> ans= sub(4);
         System.out.println(ans);
     }
     static void subseqqPermutation(String p, int up) {
@@ -30,5 +32,19 @@ public class dice_sum_permutation {
             ans.addAll(subseqqPermutationArraylist(p + i, up - i)); // Recursive call with updated 'p' and reduced 'up'.
         }
         return ans;
+    }
+    static ArrayList<String> sub(int up){
+        ArrayList<String> ans=new ArrayList<>();
+         track("",up,ans);
+        return ans;
+    }
+    static void track(String p, int up,ArrayList<String> ans){
+        if(up==0){
+            ans.add(p);
+            return;
+        }
+        for(int i=1;i<=6 && i<=up;i++){
+            track(p+i,up-i,ans);
+        }
     }
 }

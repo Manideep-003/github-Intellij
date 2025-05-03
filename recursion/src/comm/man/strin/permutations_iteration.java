@@ -1,6 +1,4 @@
 package comm.man.strin;
-
-
 import java.util.*;
 
 public class permutations_iteration {
@@ -19,6 +17,7 @@ public class permutations_iteration {
         for (int i = 0; i <=p.length(); i++) {
             String f= p.substring(0,i);
             String l=p.substring(i);
+            System.out.println(p.length());
             ans.addAll(subseqqPermutation(f+ch+l,up.substring(1)));
         }
         return ans;
