@@ -10,23 +10,30 @@ public class Main {
         mani.rollno=390;
         ravi.name="ravi";
         ravi.rollno=21;
+        System.out.println(student.ppopulation);
         System.out.println(mani.ppopulation);
-
 //
 //        System.out.println(s.marks);
 //        System.out.println(s.name);
 //        System.out.println(s.rollno);
 
         student[] students =new student[5];
+       x y= new x();
 
-        int n=x.num;
-        System.out.println(x.num);
+        int n=y.num;
+        System.out.println(y.num);
 
+//        observe this very carefully static takes only once the operation
+        int xum=2*y.num;
+
+           int m =10+4*xum;
+
+        System.out.println(m);
 
     }
 
-     class x{
-       static int num=21;
+     static  class x{
+        int num=5;
     }
 
 }

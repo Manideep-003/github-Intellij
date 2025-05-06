@@ -1,4 +1,4 @@
-package com.man.introduction.pakage;
+package com.man.introduction;
 
 public class human {
     int age;
@@ -12,6 +12,11 @@ public class human {
         this.salary=salary;
         this.married=married;
         this.population+=1;
+    }
+
+    public static void main(String[] args) {
+        human h= new human(18,"mallesh",67899,false);
+
     }
 
 
