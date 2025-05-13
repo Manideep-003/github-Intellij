@@ -1,7 +1,7 @@
 package com.man.introduction.Access;
 
 public class A {
-    protected int num;
+    public int num;
     String name;
 
 
